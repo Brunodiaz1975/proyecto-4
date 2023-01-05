@@ -1,3 +1,21 @@
+# proyecto4
+
+# Aplicacion de Restaurante
+ 
+Se realiza una aplicacion de Restaurante con el uso de React
+##  agradecimiento
+
+
+https://github.com/fhernandezpalafox
+
+https://github.com/rjoelgs
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
