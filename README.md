@@ -10,6 +10,10 @@ https://github.com/fhernandezpalafox
 
 https://github.com/rjoelgs
 
+## sobre mi
+
+https://github.com/Brunodiaz1975
+
 
 
 
