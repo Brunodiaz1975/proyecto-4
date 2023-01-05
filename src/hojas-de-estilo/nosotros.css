@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor-nosotros {
+    background-color: wheat;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo-nosotros {
+    font-family: cursive;
+    font-size: 40px;
+}
+
+.historia-nosotros {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: justify;
+    padding: 30px;
+}
+
+.ubicacion-nosotros {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 90%;
+}

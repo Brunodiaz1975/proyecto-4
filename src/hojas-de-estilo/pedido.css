@@ -1,0 +1,31 @@
+.contenedor-pedido {
+    background-color: wheat;
+    height: 100%;
+    padding-top: 10px;
+    font-family: cursive;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-menu {
+    width: 90%;
+    height: 90%;
+    background-color: #d0d0d5;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.fila {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.boton {
+    display: block;
+}

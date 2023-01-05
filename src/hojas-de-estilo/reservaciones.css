@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.contenedor-reservaciones {
+    width: 100%;
+    min-height: 600px;
+    background-color: wheat;
+    padding: 25px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.reservaciones-lista-principal {
+    width: 90%;
+    height: 90%;
+    background-color: #d0d0d5;
+    padding: 25px;
+    margin: 10px;
+    border-radius: 26px;
+    
+}
+
+

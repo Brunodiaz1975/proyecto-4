@@ -1,0 +1,56 @@
+.reservacion-formulario {
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.reservacion-input-fecha {
+    width: 350px;
+    font-size: 18px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+    border: 2px solid rgb(230, 211, 176);
+    outline: none;
+}
+
+.reservacion-input-nombre {
+    width: 350px;
+    font-size: 18px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+    border: 2px solid rgb(230, 211, 176);
+    outline: none;
+}
+
+.reservacion-input-hora {
+    width: 250px;
+    font-size: 18px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+    border: 2px solid rgb(230, 211, 176);
+    outline: none;
+}
+
+.reservacion-boton {
+    padding: 16px;
+    font-size: 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: rgb(234, 204, 169);
+}
+
+.nombre-reservacion {
+    width: 250px;
+    font-size: 25px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+    border: 2px solid rgb(230, 211, 176);
+    outline: none;
+    text-align: center;
+}
