@@ -14,6 +14,13 @@ https://github.com/rjoelgs
 
 https://github.com/Brunodiaz1975
 
+## enlace demo ###
+
+https://brunodiaz1975.github.io/proyecto-4/
+
+## sobre mi
+TSU egresado de la Universidad Tecnologica de Nezahualcoyotl  en la carrera de Comercializacion.
+Actualmente estudiando  HTML, CSS y JAVASCRIP 
 
 
 
